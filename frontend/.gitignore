@@ -1,0 +1,17 @@
+# Frontend Environment Variables (NEVER COMMIT)
+.env
+.env.*
+!.env.example
+*.env
+*.env.*
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
